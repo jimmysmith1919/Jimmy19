@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #2.12 Final Project Initial Repo
 
 ##Structure
@@ -21,3 +22,7 @@
 <dd>procman config file, adjust this to make your pman show the nodes and launch files you need</dd>
 </dl>
 
+=======
+# Jimmy19
+A practice repository
+>>>>>>> 437589da0816544b54dbf1b4f5bc239456c52eba
